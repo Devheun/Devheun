@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### Si Heun,Lee (a.k.a. Devheun)
 > Sophomore, Korea University majoring in Computer Science & Engineering
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devheun&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devheun&layout=compact&theme=tokyonight)
 
 
 
